@@ -1,0 +1,45 @@
+{
+    "pets": [
+      {
+        "id": 1,
+        "name": "Fluffy",
+        "type": "cat",
+        "age": 3,
+        "weight": 12,
+        "isAdopted": false
+      },
+      {
+        "id": 2,
+        "name": "Spot",
+        "type": "dog",
+        "age": 5,
+        "weight": 25,
+        "isAdopted": false
+      },
+      {
+        "id": 3,
+        "name": "Ginger",
+        "type": "micropig",
+        "age": 2,
+        "weight": 5,
+        "isAdopted": false
+      },
+      {
+        "id": 4,
+        "name": "Whiskers",
+        "type": "cat",
+        "age": 1,
+        "weight": 8,
+        "isAdopted": true
+      },
+      {
+        "id": 5,
+        "name": "Rex",
+        "type": "dog",
+        "age": 4,
+        "weight": 30,
+        "isAdopted": true
+      }
+    ]
+  }
+  
